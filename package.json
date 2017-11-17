@@ -1,0 +1,22 @@
+{
+  "name": "indecision-react-app",
+  "version": "1.0.0",
+  "description": "React tutoriel https://www.udemy.com/react-2nd-edition/learn/v4/t/lecture/7707628?start=0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoLoADR/indecision-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoLoADR/indecision-react-app/issues"
+  },
+  "homepage": "https://github.com/YoLoADR/indecision-react-app#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
